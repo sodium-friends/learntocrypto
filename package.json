@@ -1,0 +1,24 @@
+{
+  "name": "learntocrypto",
+  "version": "0.0.0",
+  "description": "Learn to crypto workshop",
+  "main": "index.js",
+  "dependencies": {
+    "duplex-json-stream": "^1.0.1",
+    "siginfo": "^1.0.1",
+    "sodium-universal": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodium-friends/learntocrypto.git"
+  },
+  "keywords": [],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodium-friends/learntocrypto/issues"
+  },
+  "homepage": "https://github.com/sodium-friends/learntocrypto#readme"
+}
