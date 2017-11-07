@@ -13,7 +13,7 @@ var server = net.createServer(function (socket) {
       case 'balance':
         socket.end({cmd: 'balance', balance: log.reduce(reduceLog, 0)})
         break
-      case: 'deposit':
+      case 'deposit':
         log.push(msg)
         socket.end({cmd: 'balance', balance: log.reduce(reduceLog, 0)})
         break
