@@ -3,7 +3,7 @@
 In this workshop you will learn about cryptographic engineering without too much
 mathematics. We will be learning the cryptographic library called `libsodium`,
 which is in contrast to the `crypto` module in Node.js core, which is based on
-`openssl`. Libsodium is a collection of high-level cryptographic primitives
+`openssl`. `libsodium` is a collection of high-level cryptographic primitives
 which are misuse-resitant, meaning it is hard to get wrong.
 
 For this workshop we will be doing all out programming in Javascript on Node.js,
