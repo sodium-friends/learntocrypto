@@ -11,7 +11,7 @@ Learn cryptographic engineering through a set of exercises.
 ## Install
 
 ```sh
-git clone git@github.com:sodium-friends/learntocrypto.git
+git clone git://github.com/sodium-friends/learntocrypto.git
 ```
 
 ## License
