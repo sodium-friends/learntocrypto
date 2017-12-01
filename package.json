@@ -6,7 +6,8 @@
   "dependencies": {
     "duplex-json-stream": "^1.0.1",
     "siginfo": "^1.0.1",
-    "sodium-native": "^2.0.0"
+    "sodium-native": "^2.0.0",
+    "sodium-universal": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {},
