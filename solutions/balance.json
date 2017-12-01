@@ -1,0 +1,1 @@
+[{"cmd":"deposit","amount":100},{"cmd":"deposit","amount":1000},{"cmd":"withdraw","amount":-300},{"cmd":"withdraw","amount":-300},{"cmd":"withdraw","amount":-100}]
