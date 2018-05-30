@@ -2,7 +2,7 @@
 
 1. [Banking Scaffold]() - RPC
 x. [Deposit operation]()
-x. [Withdrawl operation]()
+x. [Withdrawal operation]()
 x. [Balance operation]()
 x. [Persitance / Replay]()
 x. [Threat model]() - transaction integrity
