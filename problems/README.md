@@ -12,7 +12,7 @@ but since `libsodium` is written in C, we will be using the bindings called
 you should not have to worry about compiling and tooling. You will also see that
 the bindings are a very thin wrapper, so the API might seem a bit foreign or
 very low-level, but this is a feature, as it gives you complete control over
-everything that happens inside `libsodium`. As you will learn though these
+everything that happens inside `libsodium`. As you will learn through these
 exercises, having full control and complete introspection is vital to reason
 about the security properties of a system. Hopefully you will come to appreciate
 the simplicity of the API, despite the extra boilerplate that it causes.
